@@ -1,9 +1,7 @@
 package utils;
 
-public class NewOlga {
+public class test11 {
     public static void main(String[] args) {
-        //trfjrtrfjt
-        //hygtfmytg
-
+        //hmgtffngcf
     }
 }
