@@ -12,11 +12,11 @@ DivisibleBy();
         String divBy15="Divisible By 15: ";
 
         for(int i=1; i<=100; i++){
-            if(i%3==0 && i%5==0 && i%15==0){
+            if(i%3==0 && i%5==0){
                 divBy15+=(" "+i);
-            }else if(i%3==0 && !(i%15==0)){
+            }else if(i%3==0){
                 divBy3+=(" "+i);
-            }else if(i%5==0 && !(i%15==0)){
+            }else if(i%5==0){
                 divBy5+=(" "+i);
             }
         }
