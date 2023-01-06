@@ -1,3 +1,3 @@
 package utils;
 
-public class MainUtils {
+public class MainUtils {}
