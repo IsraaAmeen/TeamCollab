@@ -8,6 +8,6 @@ public class olga {
 
         ////hgtcfgntcdngf
         //ghgghdhdg
-
+        System.out.println();
     }
 }
